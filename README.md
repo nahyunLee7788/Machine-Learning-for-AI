@@ -1,5 +1,5 @@
 # Machine-Learning-for-AI
-# class_ai4ml# class_ai4ml
+# class_ai4ml
 - Author: Nahyun Lee
 
 ## Course Schedule
